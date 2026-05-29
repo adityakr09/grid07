@@ -1,6 +1,6 @@
 # Grid07 — AI Cognitive Routing & RAG Engine
 
-> **Build the core AI cognitive loop for the Grid07 platform.  
+> **Build the core AI cognitive loop for the Grid07 platform.**
 > **Stack:** Python · LangChain/LangGraph · ChromaDB · OpenAI (gpt-4o-mini + text-embedding-3-small)
 
 ---
